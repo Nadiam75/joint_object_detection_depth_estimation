@@ -62,13 +62,13 @@ Telgeram bot available at: @DL_Sharif_Project_bot
 In order to install the dependencies run the following commands in shell
 
 ``` shell
-Pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
 To Start the Server Run the following command:
 ``` shell
-Python manage.py runserver
+python manage.py runserver
 ```
 ![disp](pictures/6.jpg)
 
