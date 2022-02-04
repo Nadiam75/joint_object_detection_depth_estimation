@@ -1,5 +1,6 @@
 # joint_object_detection_depth_estimation
-## Deep Learning Final Project
+## Deep Learning Final Project 
+### Created by: Zahra Meskar (SID: 99206406), Mohsen Shirkarami (SID: 99206366)
 
 Official repository:            (https://github.com/Nadiam75/joint_object_detection_depth_estimation)
 
@@ -55,12 +56,13 @@ Dataset Used to Train the Network (https://cs.nyu.edu/~silberman/datasets/nyu_de
 
 Here are some of our training results on TEST DATASET (depth estimation model has been trained for 30 epochs on NYU):
 
-![disp](pictures/indoor.png)
+<!-- // ![disp](pictures/indoor.png)
+ -->
 
-![disp](pictures/1.jpg)
+<!-- ![disp](pictures/1.jpg)
 
 ![disp](pictures/2.jpg)
-
+ -->
 ![disp](pictures/3.jpg)
 
 ![disp](pictures/4.jpg)
