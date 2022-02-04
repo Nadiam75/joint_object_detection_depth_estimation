@@ -2,6 +2,8 @@
 ## Deep Learning Final Project 
 ### Created by: Zahra Meskar (SID: 99206406), Mohsen Shirkarami (SID: 99206366)
 
+In this project we combined two neural networks to perform object recognition and depths estimation tasks simultaneously.
+
 Official repository:            (https://github.com/Nadiam75/joint_object_detection_depth_estimation)
 
 Pretrained Depth Estimation:    (https://github.innominds.com/karoly-hars/DE_resnet_unet_hyb)
