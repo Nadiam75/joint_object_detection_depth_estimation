@@ -55,6 +55,7 @@ Dataset Used to Train the Network (https://cs.nyu.edu/~silberman/datasets/nyu_de
 
 Telgeram bot available at: @DL_Sharif_Project_bot
 
+![disp](pictures/7.jpg)
 
 ### 4) Web application
 
@@ -64,10 +65,12 @@ In order to install the dependencies run the following commands in shell
 Pip install -r requirements.txt
 ```
 
+
 To Start the Server Run the following command:
 ``` shell
 Python manage.py runserver
 ```
+![disp](pictures/6.jpg)
 
 ### 3) Visualize result
 
