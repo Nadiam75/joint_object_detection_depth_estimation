@@ -78,9 +78,9 @@ Here are some of our training results on TEST DATASET (depth estimation model ha
 <!-- // ![disp](pictures/indoor.png)
  -->
 
-<!-- ![disp](pictures/1.jpg)
+![disp](pictures/1.jpg)
 
-![disp](pictures/2.jpg)
+<!-- ![disp](pictures/2.jpg)
  -->
 ![disp](pictures/3.jpg)
 
