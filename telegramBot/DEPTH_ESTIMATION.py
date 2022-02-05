@@ -331,7 +331,7 @@ def show_img_and_pred(img, depth):
     pred = pred[:, :, 0]
     plt.imshow(pred, cmap=plt.cm.gist_rainbow)
 
-    plt.show()
+    #plt.show()
 
 
 def depth_to_grayscale(depth, max_dist=10.0):
