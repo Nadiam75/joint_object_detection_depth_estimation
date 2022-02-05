@@ -96,7 +96,7 @@ Here are some of our training results on TEST DATASET (depth estimation model ha
 
 A short video containing how to use the web application has also been uploaded.
 
-<video src='https://github.com/Nadiam75/joint_object_detection_depth_estimation/blob/main/Depth%20Estimation.webm' width=180/>
+<video src='Depth Estimation.webm' width=180/>
 
 ## Contact
 
