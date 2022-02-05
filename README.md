@@ -1,6 +1,9 @@
 # joint_object_detection_depth_estimation
-## Deep Learning Final Project 
-### Created by: Zahra Meskar (SID: 99206406), Mohsen Shirkarami (SID: 99206366)
+## Deep Learning Final Project     
+#### Direct access to the report: 
+
+https://github.com/Nadiam75/joint_object_detection_depth_estimation/blob/main/Project_Report.pdf
+#### Created by: Zahra Meskar (SID: 99206406), Mohsen Shirkarami (SID: 99206366)
 
 In this project we combined two neural networks to perform object recognition and depths estimation tasks simultaneously.
 
@@ -60,7 +63,7 @@ Dataset Used to Train the Network (https://cs.nyu.edu/~silberman/datasets/nyu_de
 
 Telgeram bot available at: @DL_Sharif_Project_bot
 
-Our telegram bot is capabale of detecting objects closer or farther from 2, 3 or 4 meters, this threshold can be changed according to the users needs!
+Our telegram bot is capabale of detecting objects and estimating their corresponding depths closer or farther from 2, 3 or 4 meters, this threshold can be changed according to the users needs!
 
 ![disp](pictures/7.jpg)
 
