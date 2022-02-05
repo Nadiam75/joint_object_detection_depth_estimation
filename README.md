@@ -55,6 +55,8 @@ Dataset Used to Train the Network (https://cs.nyu.edu/~silberman/datasets/nyu_de
 
 Telgeram bot available at: @DL_Sharif_Project_bot
 
+Our telegram bot is capabale of detecting objects closer or farther from 2, 3 or 4 meters, this threshold can be changed according to the users needs!
+
 ![disp](pictures/7.jpg)
 
 ### 4) Web application
