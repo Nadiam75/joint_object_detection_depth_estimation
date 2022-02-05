@@ -1,8 +1,7 @@
 # joint_object_detection_depth_estimation
 ## Deep Learning Final Project     
-#### Direct access to the report: 
+#### Direct access to the [Project Report](https://github.com/Nadiam75/joint_object_detection_depth_estimation/blob/main/Project_Report.pdf)
 
-https://github.com/Nadiam75/joint_object_detection_depth_estimation/blob/main/Project_Report.pdf
 #### Created by: Zahra Meskar (SID: 99206406), Mohsen Shirkarami (SID: 99206366)
 
 In this project we combined two neural networks to perform object recognition and depths estimation tasks simultaneously.
