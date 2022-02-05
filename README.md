@@ -102,7 +102,7 @@ Here are some of our training results on TEST DATASET (depth estimation model ha
 
 ### 4) Video
 
-A short video containing how to use the web application has also been uploaded.
+A short video containing details on how to use the web application has also been uploaded.
 
 
 ![disp](pictures/Depth_Estimation_WEBAPP.gif)
