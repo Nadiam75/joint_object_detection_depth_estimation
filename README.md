@@ -40,7 +40,7 @@ Dataset Used to Train the Network (https://cs.nyu.edu/~silberman/datasets/nyu_de
   
   Contains detailes on the implementation of the three structures implemented, our telegram bot and the webApp. 
   
-  Direct download link: https://github.com/Nadiam75/joint_object_detection_depth_estimation/blob/main/Project_Report.pdf
+  Direct access link: https://github.com/Nadiam75/joint_object_detection_depth_estimation/blob/main/Project_Report.pdf
   
   DL_Project.ipynb      
   
